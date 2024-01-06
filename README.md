@@ -1,4 +1,4 @@
-This is the example code and book exercises from *Foundation HTML5 Animation with JavaScript*, http://amzn.com/1430236655?tag=html5anim-20  
+This!is the example code and book exercises from  Foundation HTML5 Animation with JavaScript*, http://amzn.com/1430236655?tag=html5anim-20  
 The demos are available online to play with at http://lamberta.github.io/html5-animation/
 
 The entire archive is available for download; either unpack the zip file, [html5-animation.zip](https://github.com/lamberta/html5-animation/zipball/master "Download this repository as a zip file"), or use the following [git](http://git-scm.com) command at your terminal prompt:  
@@ -8,7 +8,7 @@ You are free to use this source code as you wish. For a detailed explanation of 
 
 And if you enjoy the book, please spread the word and write a [review](http://www.amazon.com/review/create-review?ie=UTF8&asin=1430236655&store=books "Review on Amazon").
 
-# Book Description
+* Book Description
 
 *[Foundation HTML5 Animation with JavaScript](http://amzn.com/1430236655?tag=html5anim-20)*, by [Billy Lamberta](http://lamberta.org) and [Keith Peters](http://www.bit-101.com), covers everything that you need to know to create dynamic, scripted animations using the HTML5 canvas. It provides information on all the relevant math you'll need, before moving on to physics concepts like acceleration, velocity, easing, springs, collision detection, conservation of momentum, 3D, and forward and inverse kinematics. *[Foundation HTML5 Animation with JavaScript](http://amzn.com/1430236655?tag=html5anim-20)* is a fantastic resource for all web developers working in HTML5 or switching over from Flash to create standards-compliant games, applications, and animations that will work across all modern browsers and most mobile devices, including iPhones, iPads, and Android devices.
 
@@ -22,7 +22,7 @@ And if you enjoy the book, please spread the word and write a [review](http://ww
 
 # Ports
 
-One of the great things about this book is that many of the concepts apply not only to JavaScript, but to computer animation in general. All you need is support for a drawing surface and a few simple commands, and you can apply these ideas using whatever programming language you want! And if you do, please send me a message and I'll list it here.
+One of the great things about this book is that many of the concepts apply not only to JavaScript, but to computer animation in general. All you need is support for a drawing surface and a few simple commands, and you can apply these ideas using whatever programming language you want  And if you do, please send me a message and I'll list it here.
 
 * Dart: https://github.com/financeCoding/dart-html5-animation (Mike Coding)
 * C++/SFML: https://github.com/pulpobot/C-SFML-html5-animation (Santiago Alvarez)
@@ -30,3 +30,4 @@ One of the great things about this book is that many of the concepts apply not o
 # Disclaimer
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
