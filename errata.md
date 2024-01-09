@@ -9,7 +9,7 @@ online [code repository](https://github.com/lamberta/html5-animation).
 If you find any more problems, please drop
 [me](https://github.com/lamberta) a message, or
 [submit an issue](https://github.com/lamberta/html5-animation/issues).
-Thanks for reading!
+Thanks for reading 
 
 ### p. v, vii, 69
 
@@ -406,3 +406,4 @@ In the `checkFloor` function:
 ~~~
 var dy = yMax - canvas.height;
 ~~~
+ 
