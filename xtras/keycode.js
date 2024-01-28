@@ -1,5 +1,5 @@
 /**
- * A list of JavaScript key codes to reference by name.
+#* A list of JavaScript key codes to reference by name.
  * From 'Foundation HTML5 Animation with JavaScript': http://amzn.com/1430236655?tag=html5anim-20
  */
 
@@ -125,3 +125,4 @@ var keycode = {
   RIGHTBRACKET: 221,
   QUOTE: 222
 };
+ 
